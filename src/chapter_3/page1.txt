@@ -1,0 +1,7 @@
+1. What are the phases / steps of SDLC
+2. What is testing?
+3. What is manual testing?
+4. What is automated testing?
+5. What is static testing?
+6. What is verification?
+7. What is validation?
